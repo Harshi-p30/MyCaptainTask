@@ -1,0 +1,9 @@
+#include<iostream.h>
+using namespace std;
+int main()
+{
+cout<<"Size of char: 1 byte";
+cout<<"\nSize of int: 4 bytes";
+cout<<"\nSize of float: 4 bytes";
+cout<<”\nSize of double: 8 bytes";
+}
