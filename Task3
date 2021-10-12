@@ -1,4 +1,5 @@
 #include<iostream.h>
+using namespace std;
 int main()
 { int age
 cout<<"Enter your age to check eligibility \n";
