@@ -1,0 +1,10 @@
+#include<iostream.h>
+int main()
+{ int age
+cout<<"Enter your age to check eligibility \n";
+cin>>age;
+if(age<18)
+{ cout<<" Not eligible to vote"; }
+else
+cout<<" Eligible to vote";
+}
