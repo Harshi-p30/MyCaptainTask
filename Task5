@@ -1,0 +1,15 @@
+#include <iostream.h>
+using namespace std;
+int main()
+{
+int i, j, a, b;
+cout<<"Enter a number";
+cin>>a;
+cout<<"These are the following combinations \n";
+for(i=0;i<=a;i++)
+{
+for(j=0;j<=a;j++)
+{ b=i+j;
+if(a==b)
+{ cout<<a<<"=" <<i<<"+" <<j<<"\n";
+} } } }
