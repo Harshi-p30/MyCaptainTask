@@ -1,0 +1,14 @@
+#include<studio.h>
+int main()
+{
+int h, m, s;
+cout<<Hours? ";
+cin>>h;
+cout<<" Minutes? ";
+cin>>m;
+cout<<" seconds? ";
+cin>>"s;
+cout<<" Time:"<<h":"<<m":"<<s":";
+tot= (h*60*60)+(m*60)+s;
+cout<<"Total time in seconds"<<tot;
+}
